@@ -1,0 +1,85 @@
+<?php
+
+$lang['language_key'] = 'type your message';
+$lang['total'] = 'Total';
+$lang['total_services'] = 'Total Services';
+$lang['total_portfolios'] = 'Total Portfolio';
+$lang['total_blogs'] = 'Total Blogs';
+
+$lang['menu_login'] ='LOGIN';
+$lang['menu_signup']='SINGNUP';
+$lang['menu_login_singnup']="LOGIN/SignUp";
+$lang['menu_book_a_session'] = 'BOOK A SESSION';
+$lang['menu_merchandise'] = 'MERCHANDISE';
+$lang['menu_franchize'] = 'FRANCHISE';
+$lang['menu_we_take_your_junk'] = 'WE TAKE YOUR JUNK';
+$lang['menu_about'] = 'ABOUT';
+$lang['menu_media'] = 'MEDIA';
+$lang['menu_term'] = 'Terms & Conditions';
+$lang['menu_contact_us'] = 'Contact US';
+$lang['menu_follow_us']='MORE MEDIA
+FOLLOW US #thesmashroom';
+$lang['menu_contact'] = ' Contact us ';
+$lang['menu_footer'] =' © 2019 SmashRoom. All rights reserved. Site by GO-Gulf ';
+$lang['menu_glass'] = ' glass items ' ;
+$lang['menu_person_rooms'] = '(%1$s person / %2$s room)' ;
+$lang['menu_room'] = 'room ';
+$lang['menu_electronics']='electronics';
+$lang['menu_no_electronics']='No electronics';
+$lang['menu_write_to_us'] = ' WRITE TO US  ';
+$lang['menu_enqire_to_us'] = ' ENQUIRE NOW ';
+$lang['menu_subject']    ='Subject * ';
+$lang['menu_contact']  = ' Contact Number * ';
+$lang['menu_email']  = ' Email * ';
+$lang['menu_location']  = ' OUR LOCATION ';
+$lang['menu_help']  = ' How can we help you? *';
+$lang['menu_name']  = ' Full Name * ';
+$lang['menu_submit']= ' SUBMIT ';
+$lang['menu_contact_'] = ' CONTACT';
+$lang['menu_merchandise']= ' MERCHANDISE  ';
+$lang['menu_see'] ='SEE MORE ';
+$lang['menu_load']='LOAD MORE';
+$lang['menu_equire']= 'ENQUIRE';
+$lang['menu_about_us']='ABOUT US';
+$lang['menu_more_media']=' MORE MEDIA ';
+$lang['menu_check_us']= 'CHECK  US OUT IN THE MEDIA ';
+$lang['menu_download']='DOWNLOAD Pdf';
+$lang['menu_account']='My Account';
+$lang['menu_account_Detail']='ACCOUNT DETAILS';
+$lang['menu_logout']='LOG OUT';
+$lang['menu_personal_detail']='PERSONAL DETAILS';
+$lang['menu_booking_']='BOOKINGS';
+$lang['menu_booking_session']= 'BOOK SESSION';
+$lang['menu_bookin_addon']='NEXT TO ADDONS';
+$lang['menu_next_to_detail']='NEXT TO DETAIL';
+$lang['menu_go_back']='GO BACK';
+$lang['menu_pick_location']='PICK LOCATION';
+$lang['menu_check_out']=' CHECKOUT  ';
+$lang['menu_select_date']= 'Select Date';
+$lang['menu_add_on']= 'Add ons';
+$lang['menu_personaldetails']= 'Personal Details';
+$lang['menu_payment']= 'Payment';
+$lang['menu_enter_detail']='Please enter your details';
+$lang['menu_full_name']='Full Name';
+$lang['menu_contact_num']='Contact Num';
+$lang['menu_date_of_birth']='Date of birth';
+$lang['menu_discount']='Discount code (if applicable)';
+$lang['menu_payment_details']='Payment Details';
+$lang['menu_pay_online']='Pay Online';
+$lang['menu_pay_at_store']='Pay at Store';
+$lang['menu_expiration']='Expiration';
+$lang['menu_card_type']='CARD TYPE';
+$lang['menu_success']=' Success';
+$lang['menu_order_']='Your Order Has beeen placed! <br/> Your Order References # is :';
+$lang['reason_for_contact'] = 'Reason For Contact';
+$lang['al_quoz_branch'] = 'Al Quoz Branch';
+$lang['General_Inquiries'] = 'General Inquiries';
+$lang['last_exit_mad_x_branch'] = 'Last Exit Mad X Branch';
+$lang['here'] = 'Here';
+$lang['Franchising'] = 'Franchising';
+$lang['change_package'] = 'Change Package';
+$lang['booking_page_line'] = '* For Group Bookings and Corporate Packages, click';
+$lang['choose_time'] = "CHOOSE TIME:";
+
+
+
